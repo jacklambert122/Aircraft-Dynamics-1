@@ -26,11 +26,11 @@ Lastly, we were tasked with finding the distance traveled by the golf ball if th
 </p>
 
 
-\subsection{Problem 10:}
+## Problem 10:
 For this problem we had to find the trajectory of a balloon in variable wind conditions, particularly a balloon filled with 1 $m^3$ of helium with wind prevailing at 4 $\frac{m}{s}$ north and 2 $\frac{m}{s}$ east. Plot for the balloons trajectory are as follows:
 
 <p align="center">
-  <img src="./Images/Ballon.png" />
+  <img src="./Images/Balloon.png" />
 </p>
 
 Lastly, we had to find the relationship between wind speed and required helium volume to maintain an accent angle of 45 degrees. This was found by iterating through varying volumes of at high resolution and taking the first point at which the angle of the balloon crosses 45$\degree$. This would need to be done for each unique wind condition.
